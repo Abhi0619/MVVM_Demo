@@ -1,0 +1,6 @@
+framework module Pods_MVVM_Demo_Api_MVVM_Demo_ApiUITests {
+  umbrella header "Pods-MVVM_Demo_Api-MVVM_Demo_ApiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
